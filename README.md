@@ -21,4 +21,5 @@ Some design notes:
 
 Future Redesigns:
 - Automatically update in realtime everytime a file updates. Ex: Friend dies and the program automatically updates the output file.
+- Using ALT with a stream deck does not work. Use other keys.
 - idk lol
